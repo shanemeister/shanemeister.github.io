@@ -1,6 +1,9 @@
 # shanemeister.github.io
 
-
+<html>
+	<h1>Randy Shane</h1>
+	<img src="./rshane.png" />
+</html>
 
 This is he start of my personal portfolio for full stack development. Hoping to develop some things of interest here at some point. 
 
